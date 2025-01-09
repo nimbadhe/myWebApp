@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container. Change2
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
